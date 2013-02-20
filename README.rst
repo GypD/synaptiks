@@ -4,15 +4,11 @@ synaptiks
 
 http://synaptiks.readthedocs.org/
 
-.. warning::
-
-   This utility is **not actively maintained anymore**.
-
-   All issue reports, pull requests and questions submitted to the issue tracker
-   or to the mailing list are **ignored** until a new maintainer is found.
-
-   If you would like to take over maintenance, `contact the developers of
-   synaptiks <https://github.com/lunaryorn/synaptiks/issues/55>`_.
+**Warning:**: This utility is **not actively maintained anymore**.  All issue
+reports, pull requests and questions submitted to the issue tracker or to the
+mailing list are **ignored** until a new maintainer is found.  If you would like
+to take over maintenance, `contact the developers of synaptiks
+<https://github.com/lunaryorn/synaptiks/issues/55>`_.
 
 synaptiks is a touchpad configuration and management tool for KDE_, available
 under the terms of the `simplified BSD licence`_ (see ``COPYING``).
