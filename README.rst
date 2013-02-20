@@ -2,7 +2,7 @@
 synaptiks
 #########
 
-http://synaptiks.lunaryorn.de
+http://synaptiks.readthedocs.org/
 
 synaptiks is a touchpad configuration and management tool for KDE_, available
 under the terms of the `simplified BSD licence`_ (see ``COPYING``).
